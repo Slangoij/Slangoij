@@ -37,4 +37,10 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/aa/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:kimtaeyou0923@gmail.com)
 </div>
- -->
+-->
+
+- - -
+#### (자바)백엔드 개발자를 위한 시작!
+- 무작정 홈페이지 하나 만들어보기
+  >>https://zero-base.co.kr/event/media_BE_school_roadmap?gclid=Cj0KCQjwl7qSBhD-ARIsACvV1X1NX8BwNz3Ovi53lir5SfbyLJAYAr3SvBN7_TdtGLCa2yp5YzbN0aoaAqKpEALw_wcB
+  
