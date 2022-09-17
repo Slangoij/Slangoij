@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ### AI개발자 입니다.
 - 인공지능 개발자 in TWiM Corp.
+- Ai검사를 위한 백엔드 언어 : Python
+- GUI를 위한 프론트단 언어: C# (.Net Framework 사용중)
 
 ### Interest
 - Tensorflow
