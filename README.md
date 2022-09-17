@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### AI개발자 입니다.
 - 인공지능 개발자 in TWiM Corp.
+- C# .Net Framework로 비전검사 프로그램도 작성중이에요
 
 ### Interest
 - Tensorflow
