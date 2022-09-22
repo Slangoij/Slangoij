@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 ### Interest
 - Tensorflow
+- .NET
+- React Native
+- Java, Python, C#, C++
 
 <div align=center>
 
