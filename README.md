@@ -36,11 +36,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=https://user-images.githubusercontent.com/71580318/197629032-36eb30ff-086e-41e6-a700-bb0aabd613ae.svg&logoColor=239120"/></a>
 <a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=https://user-images.githubusercontent.com/71580318/197629306-ec3fe640-3b79-46b7-947f-0202795f68b1.svg&logoColor=00599C"/></a>
 
-- Tensorflow
-- .NET
-- React Native
-- JavaScript, Python, C#, C++
-
 <div align=center>
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://a.github.io/)](https://a.github.io/) 
