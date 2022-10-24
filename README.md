@@ -27,11 +27,19 @@ Here are some ideas to get you started:
 - Ai검사를 위한 백엔드 언어 : Python
 - GUI를 위한 프론트단 언어: C# (.Net Framework 사용중)
 
-### Interest
+### Interested in
+<a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=https://user-images.githubusercontent.com/71580318/197627831-4b96a95a-1894-432f-9cc9-43f4904293e2.svg&logoColor=FF6F00"/></a>
+<a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=https://user-images.githubusercontent.com/71580318/197626599-57bbe80c-bba0-47e0-98f3-507db0486283.svg&logoColor=512BD4"/></a>
+<a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=https://user-images.githubusercontent.com/71580318/197628186-bda1b74a-646a-4c3f-85af-35eb15ba2927.svg&logoColor=61DAFB"/></a>
+<a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=https://user-images.githubusercontent.com/71580318/197628636-a26701d9-7d0d-49cb-a745-26fc1780dc62.svg&logoColor=F7DF1E"/></a>
+<a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=https://user-images.githubusercontent.com/71580318/197628821-927cec69-9fe4-460b-a6f7-b207bcef4afa.svg&logoColor=3776AB"/></a>
+<a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=https://user-images.githubusercontent.com/71580318/197629032-36eb30ff-086e-41e6-a700-bb0aabd613ae.svg&logoColor=239120"/></a>
+<a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=https://user-images.githubusercontent.com/71580318/197629306-ec3fe640-3b79-46b7-947f-0202795f68b1.svg&logoColor=00599C"/></a>
+
 - Tensorflow
 - .NET
 - React Native
-- Java, Python, C#, C++
+- JavaScript, Python, C#, C++
 
 <div align=center>
 
