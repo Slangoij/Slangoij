@@ -1,5 +1,9 @@
 ### Hello I'm interested in FE, DEV automation, and have All-round hobbies(surfing, snow-boarding, singing, dancing, skate-boarding, etc.)😂👋
 
+- 🔭 I’m currently working on Python (for AI Inspection)
+- 🔭 I’m currently working on C# .Net (for GUI)
+- 🌱 I’m currently learning JavaScript React.js (for Web Front Lang.)
+- 
 <!--
 **Slangoij/Slangoij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,10 +26,10 @@ Here are some ideas to get you started:
 
 </div>
 
-### AI개발자 입니다.
+### 다양한 취미와 함께 개발에도 열의가 있는 !AI개발자!입니다.
 - 인공지능 개발자 in TWiM Corp.
 - Ai검사를 위한 백엔드 언어 : Python
-- GUI를 위한 프론트단 언어: C# (.Net Framework 사용중)
+- GUI를 위한 프론트 언어: C# (.Net Framework 사용중)
 
 ### Interested in
 <a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=https://user-images.githubusercontent.com/71580318/197627831-4b96a95a-1894-432f-9cc9-43f4904293e2.svg&logoColor=FF6F00"/></a>
