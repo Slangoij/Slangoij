@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![Slango's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slangoij&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slangoij&show_icons=true&theme=radical)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://a.github.io/)](https://a.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/test/)](https://www.linkedin.com/in/a/) 
