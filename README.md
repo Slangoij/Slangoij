@@ -20,6 +20,15 @@ and have All-round hobbies(surfing, snow-boarding, singing, dancing, skate-board
 <a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=https://user-images.githubusercontent.com/71580318/197629032-36eb30ff-086e-41e6-a700-bb0aabd613ae.svg&logoColor=239120"/></a>
 <a href="https://github.com/Slangoij" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=https://user-images.githubusercontent.com/71580318/197629306-ec3fe640-3b79-46b7-947f-0202795f68b1.svg&logoColor=00599C"/></a>
 
+
+<div align=center>
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)  -->
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=slango">
+
+</div>
+
+
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slangoij&show_icons=true&theme=radical)
@@ -34,12 +43,6 @@ and have All-round hobbies(surfing, snow-boarding, singing, dancing, skate-board
 
 </div>
 
-<div align=center>
-
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)  -->
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=slango">
-
-</div>
 
 
 <!--
