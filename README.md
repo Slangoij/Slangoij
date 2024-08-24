@@ -5,7 +5,7 @@ and have All-round hobbies(surfing, snow-boarding, singing, dancing, skate-board
 - 🔭 I’m currently working on C# .Net (for GUI)
 - 🌱 I’m currently learning JavaScript React.js (for Web Front Lang.)
 
-### 다양한 취미와 함께 개발에도 열의가 있으며 가장 크게는 아이언맨과 같은 H/W, S/W를 이해하는 올라운드 개발자를 꿈꾸며 코딩하는 사람 입니다.😂
+### 이미지 관련 처리와 AI, 프론트 등 눈에 보여지는 데이터를 다루는 일이 재밌는 개발자입니다.😂
 - 🔭 AI 비전 소프트웨어 개발자 in TWiM Corp.
 - 🔭 AI검사를 위한 백엔드 언어 : Python
 - 🔭GUI를 위한 프론트 언어: C# (.Net Framework 사용중)
