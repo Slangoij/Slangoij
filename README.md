@@ -1,11 +1,11 @@
-### Hello I'm interested in FE, DEV automation, and Biggest Goal of Mine is TO BE like the Iron Man😂
-and have All-round hobbies(surfing, snow-boarding, singing, dancing, skate-boarding, etc.)😂👋
+### Hello I'm interested in FE, DEV automation, and Biggest Goal of Mine is TO BE like the Iron Man
+and have All-round hobbies(surfing, snow-boarding, singing, dancing, skate-boarding, etc.)👋
 
 - 🔭 I’m currently working on Python (for AI Inspection)
 - 🔭 I’m currently working on C# .Net (for GUI)
 - 🌱 I’m currently learning JavaScript React.js (for Web Front Lang.)
 
-### 이미지 관련 처리와 AI, 프론트 등 눈에 보여지는 데이터를 다루는 일이 재밌는 개발자입니다.😂
+### 이미지 관련 처리와 AI, 프론트 등 눈에 보여지는 데이터를 다루는 일이 재밌는 개발자입니다.
 - 🔭 AI 비전 소프트웨어 개발자 in TWiM Corp.
 - 🔭 AI검사를 위한 백엔드 언어 : Python
 - 🔭GUI를 위한 프론트 언어: C# (.Net Framework 사용중)
